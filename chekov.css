@@ -1,0 +1,29 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: black;
+    background-color: lightblue;
+}
+
+.direction:hover{
+    color: lightgray;
+    background-color: darkblue;
+}
+
+.astroff{
+    color: lightcoral;
+}
+
+.telegin{
+    color: goldenrod;
+}
+
+.voitski{
+    color: mediumspringgreen;
+}
