@@ -19,13 +19,25 @@
 .astroff{
     color: lightcoral;
 }
+.astroff:hover{
+    text-shadow: 0px 0px 5px #a0a0a0;
+    border: 1.5px dotted black;
+}
 
 .telegin{
     color: goldenrod;
 }
+.telegin:hover{
+    text-shadow: 0px 0px 5px #a0a0a0;
+    border: 1.5px dotted black;
+}
 
 .voitski{
     color: mediumspringgreen;
+}
+.voitski:hover{
+    text-shadow: 0px 0px 5px #d0d0d0;
+    border: 1.5px dotted black;
 }
 
 table{
