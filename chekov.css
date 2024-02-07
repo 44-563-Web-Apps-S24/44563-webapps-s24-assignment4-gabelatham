@@ -27,3 +27,22 @@
 .voitski{
     color: mediumspringgreen;
 }
+
+table{
+    border: solid 2px;
+    border-collapse: collapse;
+    outline: solid 2px mediumturquoise;
+    margin: 10px;
+}
+
+th, td{
+    border: solid 1px;
+    text-align: center;
+}
+
+tr{
+    background-color: mediumturquoise;
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
